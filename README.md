@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kevin!
 - 👀 I’m interested in software engineering!
 - 🌱 I’m currently learning more about Machine Learning and other computer science topics at Columbia University, where I'm pursuing my Masters degree in Computer Science
-- 😅 I'm still in the process of adding more of my projects onto Github and formatting the existing projects. Sorry for the messiness!
+- 😅 I update my more recent projects onto Github and format the existing one's when I'm free. If you can't find what you're looking for, odds are I'm currently scratching my head while building a GAN for a course (:rofl:). I apologize in advance!
 - 📫 You can reach me via email at kevjli411@gmail.com
 
 <!---
